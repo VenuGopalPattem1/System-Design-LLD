@@ -1,5 +1,5 @@
 # Designing a Parking Lot System
-
+https://github.com/ashishps1/awesome-low-level-design/blob/main/class-diagrams/parkinglot-class-diagram.png
 ## Requirements
 1. The parking lot should have multiple levels, each level with a certain number of parking spots.
 2. The parking lot should support different types of vehicles, such as cars, motorcycles, and trucks.
