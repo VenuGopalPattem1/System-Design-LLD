@@ -29,3 +29,11 @@
 [2026-03-09 12:49:11] [INFO] User login successful
 [2026-03-09 12:49:11] [WARNING] High memory usage
 [2026-03-09 12:49:11] [ERROR] DB connection failed
+[2026-03-09 14:32:44] [DEBUG] Server started on port 8080
+[2026-03-09 14:32:44] [INFO] User login successful
+[2026-03-09 14:32:44] [WARNING] High memory usage
+[2026-03-09 14:32:44] [ERROR] DB connection failed
+[2026-03-09 14:41:57] [DEBUG] Server started on port 8080
+[2026-03-09 14:41:57] [INFO] User login successful
+[2026-03-09 14:41:57] [WARNING] High memory usage
+[2026-03-09 14:41:57] [ERROR] DB connection failed

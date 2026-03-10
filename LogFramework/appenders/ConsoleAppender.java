@@ -15,11 +15,11 @@ public class ConsoleAppender implements LogAppender{
     @Override
     public void append(LogMessage message) {
         String output=format.formate(message);
-       if(message.getLevel().getPriority()>=LogLevel.ERROR.getPriority()){
-        System.err.println(output);
-       }else{
+    //    if(message.getLevel().getPriority()>=LogLevel.ERROR.getPriority()){
+    //     System.err.println(output);
+    //    }else{
         System.out.println(output);
-       }
+    //    }
     }
 
     @Override
